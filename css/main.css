@@ -74,7 +74,12 @@ line-height: 1.4;
 
 .profile{margin-left: auto}
 
-.account {font-size:18px;}
+.account {
+    text-align: right;
+    padding: 15px;
+    font-size: 18px;
+    color: #364147;
+}
 .account a {font-size: 14px;}
 
 .profile-pic{width:60px;height: 60px;}
